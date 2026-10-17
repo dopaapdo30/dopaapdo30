@@ -15,4 +15,4 @@ Actualmente entreno mi lógica analítica todos los días, traduciendo requerimi
 
 ## 📬 Contacto
 - **Correo electrónico:** dopaapdo68@gmail.com
-- **LinkedIn:** [En construcción]
+- **LinkedIn: https://www.linkedin.com/in/juan-cisneros-68663a444/?isSelfProfile=true
