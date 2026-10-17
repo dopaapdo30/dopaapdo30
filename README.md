@@ -1,4 +1,6 @@
 📊 Juan Cisneros | Analista de Datos
+
+
 ¡Hola! Soy Juan. Me estoy preparando para dar el salto profesional al mundo del análisis de datos con un enfoque 100% práctico. Más que memorizar comandos, mi filosofía es "aprender para servir": busco entender los problemas reales de un negocio y usar las bases de datos para encontrar las respuestas correctas.
 
 Actualmente entreno mi lógica analítica todos los días, traduciendo requerimientos comerciales (ventas, inventarios, comportamiento de clientes) a código funcional y estructurado.
